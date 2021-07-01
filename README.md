@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning REACT
 - 💞️ I’m looking to collaborate on ANYTHING what pay over 600 dollars
-- 📫 How to reach me at whatsapp  +584248237941
+- 📫 How to reach me at whatsapp  +584248237941 or instagram @enriquemarte
 
 <!---
 geminiidev/geminiidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
