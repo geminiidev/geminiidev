@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @geminiidev
-- 👀 I’m interested in MERN
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on ANYTHING what pay over 600 dollars
+- 👀 I’m interested in MERN jobs
 - 📫 How to reach me at whatsapp  +584248237941 or instagram @enriquemarte_
 
 <!---
